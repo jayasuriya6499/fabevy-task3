@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title> Lorem Ipsum </title>
+	         <!----------- meta link -------->
+	 <meta charset="UTF-8">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	         <!----------- favicon link -------->
+	 <link rel="icon" href="images/2.png">
+	         <!----------- css link --------->
+	 <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+        <div class="container">
+		
+		   <section class="header">
+		       
+		       <div class="header-details">
+			     <img src="images/1.png" alt="header-image">
+				 <h1> Ad cupiditate sed est odio </h1>
+				 <p> Eum ad dolor et.Autem aut fugiat debitis voluptatem consequuntur sit.Et veritatis id. </p>
+			   </div>
+		   </section>
+		   
+		</div>
+</body>
+</html>
